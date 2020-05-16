@@ -1,0 +1,8 @@
+{
+  "python.pythonPath": "/home/ribesh/.local/share/virtualenvs/travel-o4oIHvUA/bin/python",
+  "python.linting.flake8Enabled": true,
+  "python.linting.pylintEnabled": false,
+  "python.liniting.enabled": true,
+  "python.formatting.provider": "black",
+  "python.linting.flake8Args": ["--max-line-length=88"]
+}
